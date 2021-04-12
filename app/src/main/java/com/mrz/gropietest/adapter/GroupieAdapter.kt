@@ -1,6 +1,7 @@
-package com.mrz.gropietest
+package com.mrz.gropietest.adapter
 
 import android.view.View
+import com.mrz.gropietest.R
 import com.mrz.gropietest.databinding.ItemViewBinding
 import com.xwray.groupie.viewbinding.BindableItem
 
